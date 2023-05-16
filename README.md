@@ -1,9 +1,9 @@
 ### Bienvenidos al Repositorio
 # _John Corredor, Ph.D._
 Doctor John Corredor
-PhD High-Performance Computing (Computer Sciences) - UAB Spain
-Master Paralleling and Advanced Computing - UAB Spain
-Bachelor Engineering Systems - Universidad de Los Andes
+* PhD High-Performance Computing (Computer Sciences) - UAB Spain
+* Master Paralleling and Advanced Computing - UAB Spain
+* Bachelor Engineering Systems - Universidad de Los Andes
 
 #### Docente Investigador de la "Pontificia Universidad Javeriana"
 Bogotá Colombia
